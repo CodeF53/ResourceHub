@@ -13,7 +13,7 @@ Goose Version: **v0.3**
 
 Mod Version: **v1.1**
 
-Author: **CodeF53#0241**
+Author: **@F53** (discord)
 
 ## Image of GUI:
 
